@@ -1,0 +1,5 @@
+https://medium.com/@jonathan_hui/rl-dqn-deep-q-network-e207751f7ae4
+https://medium.freecodecamp.org/improvements-in-deep-q-learning-dueling-double-dqn-prioritized-experience-replay-and-fixed-58b130cc5682
+http://www0.cs.ucl.ac.uk/staff/d.silver/web/Talks_files/deep_rl.pdf
+https://medium.com/pyladies-taiwan/reinforcement-learning-%E9%80%B2%E9%9A%8E%E7%AF%87-deep-q-learning-26b10935a745
+
